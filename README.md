@@ -1,13 +1,14 @@
 I work fulltime in corporate IT and always end up with these titles:
 
-- Technical architect
-- System architect
-- Infrastructure architect
-- Cloud engineer
-- System engineer
-- Kubernetes expert
-- Linux expert
-- Security engineer
+- Technical architect (design of distributed solutions)
+- System architect (mostly distributed systems)
+- Infrastructure architect (from DC layout to machines, network, storage)
+- Cloud engineer (all major hyperscaler)
+- System engineer (mostly Linux solutions, rarely embedded)
+- Kubernetes expert (using K8S since 2017 in version 1.5)
+- Linux expert (only an admin, no kernel developer)
+-- vim > emacs, low-latency > mainline, sed/awk <3
+- Security engineer (application, system and infrastructure security)
 
 I am focused on cluster and distributed systems in corporate/enterprise environments and sometimes I like to code in C, C++, Golang (or recently Flutter). Since I have a strong infrastructure and administrator background I do a lot of automizing and scripting.
 
